@@ -5,7 +5,7 @@ A command-line tool that translates `.srt` subtitle files between any two langua
 ## Features
 
 - Translate a single file, multiple files, or an entire folder in one command
-- Works with **any language pair** — not just Persian/English
+- Works with any language pair
 - Auto-detects the source language if you don't specify it
 - Preserves subtitle timing, index numbers, and HTML formatting tags (`<i>`, `<b>`, etc.)
 - Batches subtitles into efficient API calls with automatic retry on failure
